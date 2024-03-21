@@ -12,6 +12,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nameless0422&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
   </a>
   <a href="https://opgc.me/#/users/nameless0422" target="_blank"><img src="https://api.opgc.me/githubs/users/nameless0422/tag/?theme=basic" /></a>
-  ![](./profile-3d-contrib/profile-green-animate.svg)
 </p>
 
